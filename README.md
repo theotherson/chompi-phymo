@@ -8,6 +8,7 @@ strum and a step sequencer.
 - **[MANUAL.md](MANUAL.md)**: the controls.
 - **[presets/README.md](presets/README.md)**: the factory presets.
 - **[THIRD_PARTY.md](THIRD_PARTY.md)**: credits and licences.
+- **[LICENSE](LICENSE)**: MIT.
 
 ## Installing
 
