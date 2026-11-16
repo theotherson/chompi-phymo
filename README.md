@@ -5,6 +5,8 @@ An eight-voice physical-modelling synth firmware for the CHOMPI. Five models
 through pickups and bodies, a chorus, delay and reverb, with an arpeggiator,
 strum and a step sequencer.
 
+Built with [Claude Code](https://claude.com/claude-code).
+
 - **[MANUAL.md](MANUAL.md)**: the controls.
 - **[presets/README.md](presets/README.md)**: the factory presets.
 - **[THIRD_PARTY.md](THIRD_PARTY.md)**: credits and licences.
